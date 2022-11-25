@@ -1,0 +1,9 @@
+发送时间：2022-06-29 09:22:35 	 服务器地址：http://192.168.0.100:8000/assets/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond> 
+发送时间：2022-06-29 09:30:11 	 服务器地址：http://192.168.0.100:8000/assets/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond> 
+发送时间：2022-06-29 09:35:24 	 服务器地址：http://192.168.0.100:8000/assets/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond> 
+发送时间：2022-06-29 09:37:49 	 服务器地址：http://192.168.0.7:8000/assets/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it> 
+发送时间：2022-06-29 09:38:38 	 服务器地址：http://192.168.0.7:8000/assets/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it> 
+发送时间：2022-06-29 09:57:26 	 服务器地址：http://192.168.0.7:8000/assets/report/ 	 返回结果：发送失败   错误原因：  <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it> 
+发送时间：2022-06-29 10:01:13 	 服务器地址：http://192.168.0.7:8000/assets/report/ 	 返回结果：Receive data success! 
+发送时间：2022-06-29 16:13:06 	 服务器地址：http://192.168.0.7:8000/assets/report/ 	 返回结果：发送失败   错误原因：  HTTP Error 500: Internal Server Error 
+发送时间：2022-06-29 16:15:04 	 服务器地址：http://192.168.0.7:8000/assets/report/ 	 返回结果：Asset has been added in New Asset Zone！ 
